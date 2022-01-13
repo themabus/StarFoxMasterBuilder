@@ -1,5 +1,6 @@
 # StarFoxMasterBuilder
 Original SNES Star Fox source code restored to produce 1:1 retail releases on compile.
+Could be of interest for speedrunners or digital archeology or SF freaks or you, perhaps.
 
 So I was tired working on an project and went tinkering with SF source as a little distraction. 
 Got original US retail restored already. Now working on JP.
