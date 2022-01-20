@@ -6,7 +6,7 @@ So I was tired working on an project and went tinkering with SF source as a dist
 I thought restoring a source code was an interesting challange to brush up on reverse engineering. 
 +Nobody seemed to be doing this.
 
-Got those releases restored and compiling so far:
+Got these releases restored and compiling so far:
 - Star Fox (USA).sfc
   * crc32: 0bae0941
   * md5: 9dce6a9dcbe4e304d67b9e8fd8999e7e
@@ -15,6 +15,10 @@ Got those releases restored and compiling so far:
   * crc32: 41a60b3f
   * md5: 71e8a70dd4a17b8278d03d74c8372e77
   * sha1: a2dceab341ef20c836d4d3426f37f0ec396bbdcb
+- Starwing (Europe).sfc
+  * crc32: 865f1a71
+  * md5: 7fd753db14083bbd07282b4779cf30ae
+  * sha1: 7ba89019f33f690715bdbd52e13d888228ee4b9c
  
 Currently working on US/JP Rev1. If I'll finish those, will do Rev2 next. Don't really care about PAL or Weekend/CES thing.
 
